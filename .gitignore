@@ -6,3 +6,6 @@ stock price prediction/stonks.csv
 twitter sentiment analysis/Sentiment.csv
 SMS spam detection using NLP/summary.csv
 resume reader NLP/UpdatedResumeDataSet.csv
+movie review system NLP/bow.pkl
+movie review system NLP/model1.pkl
+movie review system NLP/IMDB-Dataset.csv

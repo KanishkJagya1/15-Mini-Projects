@@ -5,3 +5,4 @@ venv
 stock price prediction/stonks.csv
 twitter sentiment analysis/Sentiment.csv
 SMS spam detection using NLP/summary.csv
+resume reader NLP/UpdatedResumeDataSet.csv

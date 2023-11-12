@@ -1,6 +1,6 @@
 # Project Repository
 
-This repository contains various projects related to computer vision, natural language processing, and more. Each project is stored in its respective folder. Below is an index providing an overview of each project.
+This repository contains various projects related to computer vision, natural language processing, and Time series etc. Each project is stored in its respective folder. Below is an index providing an overview of each project.
 
 ## Index
 
@@ -8,7 +8,7 @@ This repository contains various projects related to computer vision, natural la
 | --- | ---------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
 | 1   | [Human Activity Recognition](./Human%20Activity%20Recognition) | Human activity recognition using sensor data.         | [Train Dataset](./Human%20Activity%20Recognition/train.csv), [Test Dataset](./Human%20Activity%20Recognition/test.csv) |
 | 2   | [Image-processing (Hand Sign Recognition)](./Image-processing%20(Hand%20Sign%20Recognition)) | Hand sign recognition using image processing.         | [Hand Sign Images](./Image-processing%20(Hand%20Sign%20Recognition)/data) |
-| 3   | [Live-subtitle Recorder](./Live-subtitle%20Recorder) | A project related to live subtitle recording.         | _(Add any specific details about the project)_              |
+| 3   | [Live-subtitle Recorder](./Live-subtitle%20Recorder) | A project related to live subtitle recording.         | The User just needs to activate the Microphone and also speak slow words that will be subtitled in the interpreter file              |
 | 4   | [Python Calculator GUI](./Python%20Calculator%20GUI) | A simple calculator with a graphical user interface. | _(Add any specific details about the project)_              |
 | 5   | [SMS Spam Detection using NLP](./SMS%20spam%20detection%20using%20NLP) | SMS spam detection using natural language processing. | [Summary Dataset](./SMS%20spam%20detection%20using%20NLP/summary.csv) |
 | 6   | [Chatbot using Python, HTML, and CSS](./chatbot%20using%20python,%20Html%20and%20css) | A chatbot implementation using Python, HTML, and CSS. | [Virtual Environment](./chatbot%20using%20python,%20Html%20and%20css/venv), [Requirements File](./chatbot%20using%20python,%20Html%20and%20css/requirements.txt) |
